@@ -6,3 +6,12 @@
 //
 
 import Foundation
+
+struct User {
+    var name: String
+    var surname: String
+    
+    var fullName: String {
+        "\(name) \(surname)"
+    }
+}
