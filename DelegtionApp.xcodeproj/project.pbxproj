@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		11BB5EA72C7F19C000A95D9C /* DelegtionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DelegtionApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		11BB5EA72C7F19C000A95D9C /* DelegtionApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = DelegtionApp.app; path = "/Users/alexander/Desktop/SwiftBook/Курс заочного потока 42/2.37/My projects/DelegtionApp/build/Debug-iphoneos/DelegtionApp.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -60,16 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				11BB5EA92C7F19C000A95D9C /* DelegtionApp */,
-				11BB5EA82C7F19C000A95D9C /* Products */,
 			);
-			sourceTree = "<group>";
-		};
-		11BB5EA82C7F19C000A95D9C /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				11BB5EA72C7F19C000A95D9C /* DelegtionApp.app */,
-			);
-			name = Products;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,7 +113,7 @@
 			mainGroup = 11BB5E9E2C7F19C000A95D9C;
 			minimizedProjectReferenceProxies = 1;
 			preferredProjectObjectVersion = 77;
-			productRefGroup = 11BB5EA82C7F19C000A95D9C /* Products */;
+			productRefGroup = 11BB5E9E2C7F19C000A95D9C;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
